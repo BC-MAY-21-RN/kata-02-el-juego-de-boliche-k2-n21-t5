@@ -1,4 +1,4 @@
-# CODECLIMATE:
+# CODECLIMATE TEST SCORE:
 
 <a href="https://codeclimate.com/github/BC-MAY-21-RN/kata-02-el-juego-de-boliche-k2-n21-t5/maintainability"><img src="https://api.codeclimate.com/v1/badges/98b2792628418cf5bec3/maintainability" /></a>
 
